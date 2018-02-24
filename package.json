@@ -1,6 +1,6 @@
 {
   "name": "crimpy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "low permission information analysis",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,7 @@
     "run-sequence": "^2.2.0"
   },
   "dependencies": {
+    "babel-runtime": "^6.26.0",
     "child-process-promise": "^2.2.1",
     "colors": "^1.1.2",
     "moment": "^2.20.1",
